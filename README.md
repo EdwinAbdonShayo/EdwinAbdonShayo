@@ -31,7 +31,7 @@
 
 ###
 
-<p align="center">📫 How to reach me: contact@edwinshayo.com<br><br>📄 Know about my experiences through: edwinshayo.com</p>
+<p align="center">📫 How to reach me: <a href="mailto:"contact@edwinshayo.com">contact@edwinshayo.com<a><br><br>📄 Know about my experiences through: <a href="https://edwinshayo.com">edwinshayo.com<a></p>
 
 ###
 
@@ -100,6 +100,6 @@
 ###
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/edwinabdonshayo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="edwinabdonshayo" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/edwinabdonshayo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="edwinabdonshayo" /></a></p><br><br>
 
 ###
