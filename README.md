@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hello 👋, I'm EA</h1>
 <h3 align="center">A passionate tech student and freelancer</h3>
 
