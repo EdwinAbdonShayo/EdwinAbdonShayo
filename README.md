@@ -10,11 +10,11 @@
   <a href="https://www.linkedin.com/in/edwinabdonshayo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://www.x.com/edwinabdonshayo" target="_blank">
+    <img src="https://img.icons8.com/fluency/100/twitterx--v1.png" width="50" alt="twitter logo"  />
+  </a>
   <a href="https://www.instagram.com/edwinabdonshayo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.x.com/edwinabdonshayo" target="_blank">
-    <img src="https://img.icons8.com/fluency/100/twitterx--v1.png" width="47" alt="twitter logo"  />
   </a>
 </div>
 
