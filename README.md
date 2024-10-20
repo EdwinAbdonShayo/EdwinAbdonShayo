@@ -13,6 +13,9 @@
   <a href="https://www.instagram.com/edwinabdonshayo" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
+  <a href="https://www.x.com/edwinabdonshayo" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" width="47" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -81,6 +84,18 @@
   <img src="https://skillicons.dev/icons?i=express" height="50" alt="express logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="sqlite logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="50" alt="bitbucket logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="18" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
 </div>
 
 ###
