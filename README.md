@@ -87,8 +87,6 @@
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
   <img width="18" />
-  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
-  <img width="18" />
   <img src="https://cdn.simpleicons.org/bitbucket/0052CC" height="50" alt="bitbucket logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
