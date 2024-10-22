@@ -7,13 +7,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/edwinabdonshayo" target="_blank">
+  <a href="https://www.linkedin.com/in/edwinabdonshayo" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.x.com/edwinabdonshayo" target="_blank">
+  <a href="https://www.x.com/edwinabdonshayo" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/fluency/100/twitterx--v1.png" width="50" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/edwinabdonshayo" target="_blank">
+  <a href="https://www.instagram.com/edwinabdonshayo" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
 </div>
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="center">📫 How to reach me: <a href="mailto:"contact@edwinshayo.com">contact@edwinshayo.com<a><br><br>📄 Know about my experiences through: <a href="https://edwinshayo.com">edwinshayo.com<a></p>
+<p align="center">📫 How to reach me: <a href="mailto:"contact@edwinshayo.com">contact@edwinshayo.com<a><br><br>📄 Know about my experiences through: <a href="https://edwinshayo.com" target="_blank" rel="noopener noreferrer">edwinshayo.com<a></p>
 
 ###
 
@@ -115,6 +115,6 @@
 ###
 
 <h3 align="left">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/edwinabdonshayo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="edwinabdonshayo" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/edwinabdonshayo" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="edwinabdonshayo" /></a></p><br><br>
 
 ###
