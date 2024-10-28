@@ -106,7 +106,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinabdonshayo&theme=high-contrast&area=true&hide_border=true" height="150" alt="activity-graph graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinabdonshayo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="164" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinabdonshayo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=highcontrast&hide_border=true&order=2" height="164" alt="languages graph" /> <br> 
   <img src="https://streak-stats.demolab.com?user=edwinabdonshayo&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="210" alt="streak graph"  />
 </div>
 
