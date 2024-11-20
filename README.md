@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">A passionate tech student and freelancer</h2>
+<h2 align="center">A passionate tech student, freelancer and aviation enthusiast</h2>
 
 ###
 
