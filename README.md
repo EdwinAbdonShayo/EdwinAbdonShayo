@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/edwinabdonshayo/count.svg?"  />
+  <img src="https://count.getloli.com/@:edwinabdonshayo?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
@@ -104,20 +104,6 @@
   <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=edwinabdonshayo&show_icons=true&locale=en&hide_title=true&layout=compact&card_width=320&theme=highcontrast&hide_border=true&order=3" height="165" alt="languages graph" /> <br> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=edwinabdonshayo&theme=high-contrast&area=true&hide_border=true" height="150" alt="activity-graph graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=EdwinAbdonShayo&theme=highcontrast&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </div>
 
 ###
