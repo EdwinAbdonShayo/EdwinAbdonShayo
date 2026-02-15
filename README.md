@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋, I'm EA</h1>
+<h1 align="center">Hello 👋, I'm Edwin A.</h1>
 
 ###
 
-<h2 align="center">A passionate tech student, freelancer and aviation enthusiast</h2>
+<h2 align="center">I am just curious!</h2>
 
 ###
 
